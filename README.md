@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -27,6 +25,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### Methodology
 
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 - This test was completed in [TypeScript](https://www.typescriptlang.org/)
 - UI Components imported from [Material UI](https://material-ui.com/)
 - Node.js server built with [Express](https://expressjs.com/)
