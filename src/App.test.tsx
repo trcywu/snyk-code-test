@@ -1,6 +1,6 @@
 import React from "react";
 import { DataResponse } from "./DisplayComponent";
-import renderer, { act, ReactTestRenderer } from "react-test-renderer";
+import renderer, { act } from "react-test-renderer";
 import App from "./App";
 import SearchComponent from "./SearchComponent";
 import DisplayComponent from "./DisplayComponent";
